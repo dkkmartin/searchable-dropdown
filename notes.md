@@ -25,7 +25,7 @@ If i were to make some animations i would propably have made the list scroll in 
 
 ### Reusability
 
-Currently, the component uses hardcoded IDs (`fruits-input`, `lb-fruit-`) and labels. To make the component reusable, these should be dynamically generated or passed in via properties.
+Currently, the component uses some hardcoded IDs and labels. To make the component reusable, these should be dynamically generated or passed in via properties.
 
 ### Click Outside to Close
 
